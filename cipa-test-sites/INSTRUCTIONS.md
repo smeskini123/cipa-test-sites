@@ -1,6 +1,6 @@
 # CIPA "Use It Like a Customer Would" — Test Sites
 
-This repo hosts 10 pre-built test sites for the CIPA exercise (WebCMP, Round 1).
+This repo hosts 10 pre-built test sites for the CIPA exercise (Usercentrics - WebCMP).
 
 ## How to claim a site
 1. Open the **Issues** tab in this repo and find "Claim your test site."
