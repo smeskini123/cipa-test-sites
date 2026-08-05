@@ -13,7 +13,7 @@ This repo hosts 10 pre-built test sites for the CIPA exercise (Usercentrics - We
 3. Paste your CMP script snippet where marked (`<!-- PASTE YOUR CMP SNIPPET HERE -->`) inside the `<head>` section.
 4. Click **Commit directly to the main branch**.
 5. Wait about a minute, then visit your live site at:
-   `https://smeskini123.github.io/cipa-test-sites/site-03/` (swap in your site number)
+   `https://smeskini123.github.io/cipa-test-sites/cipa-test-sites/site-03/` (swap in your site number)
 6. Confirm the CMP banner/setup is working as expected.
 
 No local setup, git knowledge, or coding required — everything happens in the browser.
